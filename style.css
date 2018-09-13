@@ -75,6 +75,53 @@
   color: rgba(0, 0, 0, 0.87);
 }
 
+.ad {
+  margin-right: 7px;
+  margin-left: 0px;
+  background-color: #fff;
+  border-radius: 3px;
+  color: #006621;
+  display: inline-block;
+  font-size: 11px;
+  border: 1px solid #006621;
+  padding: 1px 3px 0 2px;
+  line-height: 11px;
+  vertical-align: baseline;
+  white-space: nowrap;
+  list-style: none;
+  text-align: -webkit-match-parent;
+  font-family: arial, sans-serif
+
+}
+
+.web-address {
+  color: #006621;
+  vertical-align: bottom;
+  display: inline-block;
+  max-width: 558px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 18px;
+  list-style: none;
+  text-align: -webkit-match-parent;
+  font-family: arial, sans-serif
+}
+
+#content {
+  color: #545454;
+  line-height: 18px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  list-style: none;
+  text-align: -webkit-match-parent;
+  font-size: small;
+  font-family: arial, sans-serif
+}
+
 #up {
   position: fixed;
 }
