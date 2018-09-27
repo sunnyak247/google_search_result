@@ -296,6 +296,22 @@ padding: 10px 10px 10px 10px;
  color: #609;
 }
 
+#center a {
+  font-size: 13px;
+  font-family: arial, sans-serif;
+}
+
+
+#center a:hover {
+  color: black;
+}
+
+#center a:active {
+  border-bottom: 3px solid #1A73E8;
+  color: #1A73E8;
+  font-weight: bold;
+}
+
 a {
 
 }
